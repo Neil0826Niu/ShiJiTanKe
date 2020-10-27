@@ -1,0 +1,30 @@
+newmtl BoxSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl donglilun:__DrawCall_0401SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.70 0.70 0.70
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 126.00
+newmtl hexin:hexin_low_initialShadingGroup
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 400.00
+newmtl tuozhan:tuozhan_low1_initialShadingGroup
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 400.00
